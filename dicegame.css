@@ -1,0 +1,41 @@
+#contain{
+
+text-align: center; }
+
+label{
+
+
+
+font-weight: bold;
+
+font-size: 1.5em;}
+
+#num{
+
+padding:0;
+
+font-size: 20px;}
+
+#bt{
+
+padding: 8px 10px;
+
+font-size: 1em;
+
+background-color: hsl (195, 80%, 50%);
+
+border-radius: 5px;
+
+color: white;
+
+}
+
+#bt:hover{
+
+background-color: hsl (195, 80%, 60%);
+}
+#dice{
+
+font-size: 1.5em;
+
+margin-top: 10px;}
